@@ -1,6 +1,6 @@
 # cake
 
-An experimental proof-of-concept verson control system using a topographical mentla model.
+An experimental proof-of-concept version control system using a topographical mental model.
 
 1. All operations are either insert or remove
 2. Layer-based, not branch-based
