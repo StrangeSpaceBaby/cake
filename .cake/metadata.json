@@ -1,0 +1,19 @@
+{
+    "cake": {
+        "version": 0.1,
+        "name": "Baker"
+    },
+    "kitchen": {
+        "id": "01kf7fr2zykbxgn5dxfkaqdsf0",
+        "name": "test-kitchen",
+        "counts": {
+            "layers": 1,
+            "recipes": 0,
+            "bakes": 0
+        }
+    },
+    "current_layer": {
+        "id": "01kf7fr2zykbxgn5dxfkaqdsf2",
+        "name": "test-kitchen-base"
+    }
+}
