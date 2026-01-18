@@ -4,7 +4,7 @@
         "name": "Baker"
     },
     "kitchen": {
-        "id": "01kf7fr2zykbxgn5dxfkaqdsf0",
+        "id": "01kf7q1gp3y71xbx7yqbazb55e",
         "name": "test-kitchen",
         "counts": {
             "layers": 1,
@@ -12,8 +12,9 @@
             "bakes": 0
         }
     },
+    "hash_key": "01kf7q1gp4er1nkzsw8bm2zszb",
     "current_layer": {
-        "id": "01kf7fr2zykbxgn5dxfkaqdsf2",
+        "id": "01kf7q1gp4er1nkzsw8bm2zszd",
         "name": "test-kitchen-base"
     }
 }
